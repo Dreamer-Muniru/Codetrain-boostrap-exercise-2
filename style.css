@@ -1,0 +1,47 @@
+body{
+	background-color: lightgrey;
+}
+
+.col-ha {
+	background-color: lightblue;
+}
+
+.col-hb {
+	background-color: brown;
+}
+
+.col-h1 {
+	background-color: darkgrey;
+}
+
+.col-h2 {
+	background-color: #0078ff;
+}
+
+.col-h3 {
+	background-color: #fb5b11;
+}
+
+.col-a1 {
+	background-color: green;
+}
+
+.col-a2{
+	background-color: white;
+}
+
+.col-a3 {
+	background-color: red;
+}
+
+.col-a4{
+	background-color: purple;
+}
+
+.col-a5 {
+	background-color: #0078ff;
+}
+
+.col-a6 {
+	background-color: #fb5b11
+}
